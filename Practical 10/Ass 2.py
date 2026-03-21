@@ -1,6 +1,4 @@
 import pandas as pd
-
-# Create DataFrame
 data = {
     'State': ['Maharashtra', 'Gujarat', 'Karnataka', 'Rajasthan', 'Punjab'],
     'Area': [307713, 196024, 191791, 342239, 50362],   # in sq km
